@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://G:/SFS/SmartFoxServer_2X/SFS2X/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://G:/SFS/SmartFoxServer_2X/SFS2X/lib/Lib" />
+      <root url="file://G:/SFS/SmartFoxServer_2X/SFS2X/lib/Lib/test" />
+      <root url="file://G:/SFS/SmartFoxServer_2X/SFS2X/lib/apache-tomcat/work/Catalina/localhost/manager" />
+    </SOURCES>
+    <jarDirectory url="file://G:/SFS/SmartFoxServer_2X/SFS2X/lib" recursive="false" />
+  </library>
+</component>
